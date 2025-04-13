@@ -3,3 +3,4 @@
 ![image](https://github.com/user-attachments/assets/238ebf17-5071-4a4b-b15d-07b4bf3fd540)
 ![image](https://github.com/user-attachments/assets/3e29c7ac-0195-413b-8534-31785c8c79cb)
 
+Demonstration Video :- https://github.com/Parag-IIT/Edge-AI-based-Speech-Recognition-on-Arduino-Nano-33-BLE-Sense-Rev-2/blob/main/VID_20240421_201854737.mp4
